@@ -1,0 +1,15 @@
+lement.style {
+}
+.has-text-align-center {
+    text-align: center;
+}
+p {
+    margin: 0 0 1.5em;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+* {
+gf
+gfrs
+awd
